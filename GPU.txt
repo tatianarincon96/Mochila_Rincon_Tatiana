@@ -1,0 +1,17 @@
+GPUs: Graphics Processing Unit o Unidad de procesamiento gráfico.
+Se especifican en aplicaciones realizacionadas con el procesamiento de imágenes como los videojuegos, aplicaciones 3D, etc.
+- Suelen ser más grandes que los CPUs. En cuanto a potencia computacional, la GPU se dedica al procesamiento de gráficos, para 
+aligerar la carga de trabajo del CPU como en los videojuegos o aplicaciones 3D. De esta forma, mientras gran parte de lo relacionado 
+con los gráficos se procesa en la GPU, la CPU puede dedicarse a otro tipo de cálculos. En cuanto a potencia computacional, existen 
+GPU que son muy potentes y pueden incluso superar la frecuencia de reloj de un CPU antiguo, esto se puede deber a que se especifican 
+en una sola tarea, sin embargo, la mejor frecuencia de reloj de las GPU modernas es baja en comparación a la ofrecida por los mejores 
+CPU del momento, además de que los CPU poseen mayor potencia de cálculo.
+
+- Más diferencias entre CPU y GPU:
+Se diferencian en cuanto a su diseño: Pocos núcleos muy complejos en la CPU, y miles de núcleos muy sencillos en la GPU, 
+esto se debe a la especialización que se maneja en la GPU, una especialización que en el plano técnico se define como 
+paralelización. En tanto que una GPU cuenta con unidades fundamentales de cálculo independientes, el paralelismo inherente 
+es uno de los aspectos clave en una GPU y su diferencia frente a la CPU. El diseño físico de una GPU, permite dedicarla a 
+tareas muy específicas y llevarlas a cabo de forma muy eficiente. Y esto, en realidad, está justificado por la forma de 
+trabajo y su arquitectura, ya que, no sigue la arquitectura de von Neumann, como una CPU, sino el Modelo Circulante, 
+lo que permite el procesamiento en paralelo y una gran segmentación para llevar a cabo sus tareas.
